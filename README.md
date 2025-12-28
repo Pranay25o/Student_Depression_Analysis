@@ -1,7 +1,10 @@
 # 🧠 Student Depression Analysis Dashboard (Tableau)
 
 ---
+### Dashboard Link :
+👉 https://public.tableau.com/app/profile/pranay.ogale/viz/StudentDepression_17662364691760/Dashboard1?publish=yes
 
+---
 ## 📌 Problem Statement
 
 Student mental health is influenced by multiple academic and lifestyle factors such as **sleep duration, study hours, academic pressure, financial stress, and study satisfaction**.
